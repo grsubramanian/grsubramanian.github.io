@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<p>
+I was a Teaching Assistant (TA) at the University of Pennsylvania during the years 2011-2012,
+while I was pursuing my graduate studies there. Below are the courses for which I was a TA.
+More information about the specific courses is available <a href="https://catalog.upenn.edu/courses/cis/">here</a>.
+</p>
 
-Organize your courses by years, topics, or universities, however you like!
+<div>
+    <ul>
+        <li>CIS 502 - Analysis of algorithms - by <a href="https://www.linkedin.com/in/sudiptoguha">Prof. Sudipta Guha</a></li>
+        <li>CIS 505 - Software systems - by <a href="https://www.linkedin.com/in/boon-thau-loo-8930813/">Prof. Boon Thau Loo</a></li>
+        <li>CIS 555 - Internet and web systems - by <a href="https://www.linkedin.com/in/andreashaeberlen/">Andreas Haeberlen</a></li>
+    </ul>
+</div>
