@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: |
   Most of my professional software engineering work has happened either outside GitHub or in private repos.
-  Below are some of my non-work related GitHub repos.
+  Below are some of my public GitHub repos.
 nav: true
 nav_order: 4
 ---

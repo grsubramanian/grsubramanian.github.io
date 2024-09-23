@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - aws/aws-msk-iam-auth
   - grsubramanian/guitar-patterns
   - grsubramanian/algorithms-playground
   - grsubramanian/go-playground
