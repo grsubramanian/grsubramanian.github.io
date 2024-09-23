@@ -2,22 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Founding software engineer at <a href='https://www.alcion.ai'>Alcion</a> | ex-AWS, Google
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Based in Cambridge, UK</p>
+  image_circular: false # crops the image to make it circular
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true
 ---
 
-This website is still WIP. Don't yet rely on the contents. I will remove this disclaimer when it is fully done.
+I am a principal software engineer with 11 years of experience spanning SaaS, backups, data streaming, cloud, AI, digital advertising, finance and robotics. I obtained by Masters degree in Robotics and Computer science from the University of Pennsylvania in 2012.
 
-I am a principal-level software engineer with 11 years of experience spanning SaaS, backups, data streaming, cloud, AI, digital advertising, finance and robotics. I love mathematics, computer science, music and Go (the game).
+I enjoy all aspects of backend software engineering, including working with product managers to solidify requirements, setting the technical direction of the team/org, designing large-scale systems, writing bar-raising code, and mentoring people.
 
-This blog captures aspects not covered in my [LinkedIn profile](https://www.linkedin.com/in/gokul-ramanan-subramanian-30b4b018).
+I live in Cambridge, UK with my wife and son. In my spare time, I solve random math problems, play Indian classical music on a fretless guitar, and indulge in the ancient strategy board game Go.
