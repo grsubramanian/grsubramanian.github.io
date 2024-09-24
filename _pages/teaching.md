@@ -15,7 +15,7 @@ More information about the specific courses is available <a href="https://catalo
 
 <div>
     <ul>
-        <li>CIS 502 - Analysis of algorithms - by <a href="https://www.linkedin.com/in/sudiptoguha">Prof. Sudipta Guha</a></li>
+        <li>CIS 502 - Analysis of algorithms - by <a href="https://www.linkedin.com/in/sudiptoguha">Prof. Sudipto Guha</a></li>
         <li>CIS 505 - Software systems - by <a href="https://www.linkedin.com/in/boon-thau-loo-8930813/">Prof. Boon Thau Loo</a></li>
         <li>CIS 555 - Internet and web systems - by <a href="https://www.linkedin.com/in/andreashaeberlen/">Prof. Andreas Haeberlen</a></li>
     </ul>
