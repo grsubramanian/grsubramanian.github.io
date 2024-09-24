@@ -14,7 +14,9 @@ horizontal: true
 {% assign sorted_interests = site.interests | sort: "importance" %}
 
 <!-- Generate cards for each interest -->
+
 {% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for interest in sorted_interests %}

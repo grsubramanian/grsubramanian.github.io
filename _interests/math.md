@@ -8,7 +8,6 @@ importance: 3
 
 While math has always been interesting, my curiosity in math got rekindled in 2024 while I was trying to help my nephew solve some problems related to the math olympiad qualifiers in India. I enjoy subjects such as algorithms, logic and computability, number theory and combinatorics.
 
-
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
