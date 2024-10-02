@@ -13,7 +13,7 @@ profile:
 social: true
 ---
 
-I am a principal software engineer with experience spanning SaaS, backups, data streaming, cloud, AI, digital advertising, finance and robotics. I obtained my Masters degree in Robotics and Computer science from the University of Pennsylvania in 2012.
+I am a principal software engineer with experience spanning SaaS, cloud, data backups, data streaming, AI, digital advertising, finance and robotics. I obtained my Masters degree in Robotics and Computer science from the University of Pennsylvania in 2012.
 
 I enjoy all aspects of backend software engineering, including working with customers and product managers to solidify requirements, setting the technical direction of the team/org, designing large-scale systems, writing bar-raising code, operating services, and mentoring people.
 
