@@ -13,12 +13,12 @@ profile:
 social: true
 ---
 
-I am a principal software engineer with experience spanning SaaS, cloud, data backups, data streaming, AI, digital advertising, finance and robotics. I obtained my Masters degree in Robotics and Computer science from the University of Pennsylvania in 2012.
+I am a software engineering leader with experience spanning a range of diverse fields such as SaaS, cloud, data backups, data streaming, AI, digital advertising, finance and robotics.
 
-I enjoy all aspects of backend software engineering, including working with customers and product managers to solidify requirements, setting the technical direction of the team/org, designing large-scale systems, writing bar-raising code, operating services, and mentoring people.
-
-For the last 2 years, I have been working with the AWS serverless stack, programming in Golang. For around 7 years before that, I used Java primarily, with a little bit of Python and C++ as required. Language is not a barrier for me - I'm open to programming in any language - in fact, I enjoy learning a new language every few years.
+I enjoy solving hard problems that have real impact, whether that involves writing code, or great documents, or delivering through others. When working in teams, I find important areas that no one is working on, and focus on those. You could call me a gap filler.
 
 I live in Cambridge, UK with my wife and son. In my spare time, I read up on AI / ML and distributed systems, solve random math problems, play Indian classical music on a fretless guitar, and indulge in the ancient strategy board game Go.
+
+I obtained my Masters degree in Robotics and Computer science from the University of Pennsylvania in 2012.
 
 See my <a href="https://www.linkedin.com/in/gokul-ramanan-subramanian-30b4b018">LinkedIn profile</a> which acts as a companion to this website.
